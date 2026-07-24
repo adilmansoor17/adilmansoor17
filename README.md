@@ -45,14 +45,6 @@
 - Delivered cloud-backed systems with 99.9% uptime and measurable database and API performance gains.
 - Integrated AI/LLM workflows into production products with reliability, observability, and maintainability in mind.
 
-## Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adilmansoor17&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=adilmansoor17&bg_color=ffffff&color=57606a&line=2563eb&point=2563eb&area_color=93c5fd&area=true&hide_border=true&custom_title=Contribution%20activity" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adilmansoor17&bg_color=ffffff&color=57606a&line=2563eb&point=2563eb&area_color=93c5fd&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Adil Mansoor Ahmad's GitHub contribution activity" />
-</picture>
-
 <div align="center">
   <sub>Building dependable products from architecture to production.</sub>
 </div>
