@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Adil Mansoor Ahmad — Senior Full Stack Engineer" />
-
   <p>
     I design and ship scalable SaaS, ERP, EHR, and real-time platforms — from product UI and APIs to cloud infrastructure, data pipelines, and AI integrations.
   </p>
